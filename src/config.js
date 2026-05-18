@@ -3,7 +3,7 @@ const config = {
   metaData:{
     title: 'hsh的个人主页🎉',
     description: '欢迎来到HUAS HNSO的奇妙世界！',
-    keywords: 'sy,sy,个人主页,个人网站',
+    keywords: 'Leleo,leleo,个人主页,个人网站',
     icon: '/favicon.ico'   //网页图标，支持外链
   },
 
