@@ -8,7 +8,7 @@ const config = {
   },
 
   avatar: "/img/avatar.jpg", // 头像
-  welcometitle: "Hi, I'm Leleo", // 标题
+  welcometitle: "世界！在我手中！", // 标题
 
   // 颜色配置
   color: {
