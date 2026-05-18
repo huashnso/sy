@@ -1,14 +1,14 @@
 const config = {
   //网页元数据
   metaData:{
-    title: 'Leleo的个人主页🎉',
-    description: '欢迎来到Leleo的奇妙世界！',
-    keywords: 'Leleo,leleo,个人主页,个人网站',
+    title: 'hsh的个人主页🎉',
+    description: '欢迎来到HUAS HNSO的奇妙世界！',
+    keywords: 'sy,sy,个人主页,个人网站',
     icon: '/favicon.ico'   //网页图标，支持外链
   },
 
   avatar: "/img/avatar.jpg", // 头像
-  welcometitle: "世界！在我手中！", // 标题
+  welcometitle: "The world is in my hands!", // 标题
 
   // 颜色配置
   color: {
